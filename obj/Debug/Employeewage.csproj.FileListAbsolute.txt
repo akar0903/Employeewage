@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Employeewage\Employeewage\bin\Debug\Employeewage.exe.config
+C:\Users\user\Source\Repos\Employeewage\Employeewage\bin\Debug\Employeewage.exe
+C:\Users\user\Source\Repos\Employeewage\Employeewage\bin\Debug\Employeewage.pdb
+C:\Users\user\Source\Repos\Employeewage\Employeewage\obj\Debug\Employeewage.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Employeewage\Employeewage\obj\Debug\Employeewage.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Employeewage\Employeewage\obj\Debug\Employeewage.exe
+C:\Users\user\Source\Repos\Employeewage\Employeewage\obj\Debug\Employeewage.pdb
